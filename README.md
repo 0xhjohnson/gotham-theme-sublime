@@ -1,9 +1,11 @@
-![Gotham Theme](http://imgur.com/a/yDeDh)
-##### A Sublime Text 3 UI Theme
-Largely based on the incredible work done by arvi(https://github.com/arvi/Agila-Theme/) with the gotham Theme.
+![Gotham Theme](http://i.imgur.com/AwnUwx9.png)
 > The night is darkest just before the dawn. And I promise you, the dawn is coming.
 
 Gotham is a **very dark** Sublime Text 3 UI Theme. I attempted to make something that was inspired by my go to color scheme 'Gotham'. Enjoy!
+
+##### A Sublime Text 3 UI Theme
+
+Largely based on the incredible work done by arvi(https://github.com/arvi/Agila-Theme/) with the gotham Theme.
 
 ***
 ##Screenshots
@@ -12,8 +14,8 @@ You can customize the UI to your liking _(e.g camouflage workspace with the colo
 Screenshots below use font face: Adobe Source Code Pro(https://github.com/adobe-fonts/source-code-pro)
 
 ####Gotham Theme
-![Screenshot](http://imgur.com/a/8kfwU)
-![Screenshot](http://imgur.com/a/HqqRU)
+![Screenshot](http://i.imgur.com/xAqgz61.png)
+![Screenshot](http://i.imgur.com/VLXf1q0.png)
 
 ---
 
@@ -56,8 +58,8 @@ Note: You can use active guide with these schemes by adding:
 
 ---
 
-####Icons
-The theme uses ZZ File Icons(https://github.com/ihodev/sublime-file-icons) package to display file icons. Please install the package and restart Sublime.
+###Icons
+The theme uses [zz File Icons](https://github.com/oivva/st-file-icons) package to display file icons. Please install the package and restart Sublime.
 ---
 ### Settings
 I've made some UI parts customizable | icon colors, sidebar items, etc..
