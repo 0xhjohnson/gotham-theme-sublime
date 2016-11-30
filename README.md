@@ -8,10 +8,10 @@ Gotham is a **very dark** Sublime Text 3 UI Theme. I attempted to make something
 Largely based on the incredible work done by [arvi](https://github.com/arvi/Agila-Theme) with the Agila Theme.
 
 ***
-##Screenshots
+## Screenshots
 You can customize the UI to your liking _(e.g camouflage workspace with the color scheme background, sidebar, tab, autocomplete, and scrollbar setup/color preferences)_ by referring to the **"[Settings](#settings)"** section of this documentation.
 
-Screenshots below use font face: Adobe Source Code Pro(https://github.com/adobe-fonts/source-code-pro)
+Screenshots below use font face: [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 
 ####Gotham Theme
 ![Screenshot](http://i.imgur.com/xAqgz61.png)
@@ -31,7 +31,7 @@ via [Package Control](https://packagecontrol.io/), where Gotham is listed as *`G
 ##### *Daring* way
 via installing the theme manually.
 
-1. [Download the latest release .zip](https://github.com/arvi/gotham-Theme/releases)
+1. [Download the latest release .zip](https://github.com/9sevendesign/Gotham-Theme/releases)
 2. Unzip and rename folder to *`Gotham Theme`*.
 3. Move *`Gotham Theme`* folder inside the Packages directory (*`Preferences > Browse packages...`*)
 
@@ -58,9 +58,9 @@ Note: You can use active guide with these schemes by adding:
 
 ---
 
-###Icons
+### Icons
 The theme uses [zz File Icons](https://github.com/oivva/st-file-icons) package to display file icons. Please install the package and restart Sublime.
----
+
 ### Settings
 I've made some UI parts customizable | icon colors, sidebar items, etc..
 
