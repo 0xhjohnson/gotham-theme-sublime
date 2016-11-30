@@ -5,7 +5,7 @@ Gotham is a **very dark** Sublime Text 3 UI Theme. I attempted to make something
 
 ##### A Sublime Text 3 UI Theme
 
-Largely based on the incredible work done by arvi(https://github.com/arvi/Agila-Theme/) with the gotham Theme.
+Largely based on the incredible work done by [arvi](https://github.com/arvi/Agila-Theme) with the Agila Theme.
 
 ***
 ##Screenshots
