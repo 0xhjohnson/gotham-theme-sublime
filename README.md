@@ -95,9 +95,9 @@ overrides default theme sidebar and tab background only based on theme scheme ba
 ```json
 "theme_gotham_sidebar_heading_white": true,
 "theme_gotham_sidebar_heading_gray": true,
-"theme_gotham_sidebar_heading_lightblue": true,
+"theme_gotham_sidebar_heading_cyan": true,
 "theme_gotham_sidebar_heading_yellow": true,
-"theme_gotham_sidebar_heading_pink": true,
+"theme_gotham_sidebar_heading_desaturated": true,
 ```
 
 ##### SIDEBAR ENTRY/ITEM FONT SIZE (default: 13)
@@ -108,14 +108,14 @@ overrides default theme sidebar and tab background only based on theme scheme ba
 "theme_gotham_sidebar_font_big": true, //font-size: 14
 ```
 
-##### SIDEBAR SELECTED ENTRY/ITEM (default: pink)
+##### SIDEBAR SELECTED ENTRY/ITEM (default: desaturated)
 #
 ```json
 "theme_gotham_sidebar_selected_entry_white": true,
 "theme_gotham_sidebar_selected_entry_gray": true,
-"theme_gotham_sidebar_selected_entry_lightblue": true,
+"theme_gotham_sidebar_selected_entry_cyan": true,
 "theme_gotham_sidebar_selected_entry_yellow": true,
-"theme_gotham_sidebar_selected_entry_pink": true,
+"theme_gotham_sidebar_selected_entry_desaturated": true,
 ```
 
 ##### SIDEBAR LIGHT ICONS (default: dark)
@@ -130,34 +130,34 @@ overrides default theme sidebar and tab background only based on theme scheme ba
 "theme_gotham_compact_tab": true,
 ```
 
-##### ACTIVE TAB - TEXT COLOR (default: pink)
+##### ACTIVE TAB - TEXT COLOR (default: desaturated)
 #
 ```json
 "theme_gotham_active_tab_entry_white": true,
 "theme_gotham_active_tab_entry_gray": true,
-"theme_gotham_active_tab_entry_lightblue": true,
+"theme_gotham_active_tab_entry_cyan": true,
 "theme_gotham_active_tab_entry_yellow": true,
-"theme_gotham_active_tab_entry_pink": true,
+"theme_gotham_active_tab_entry_desaturated": true,
 ```
 
-##### MODIFIED TAB - ICON MARKER COLOR (default: light blue)
+##### MODIFIED TAB - ICON MARKER COLOR (default: cyan)
 #
 ```json
 "theme_gotham_modified_tab_marker_white": true,
 "theme_gotham_modified_tab_marker_gray": true,
-"theme_gotham_modified_tab_marker_lightblue": true,
+"theme_gotham_modified_tab_marker_cyan": true,
 "theme_gotham_modified_tab_marker_yellow": true,
-"theme_gotham_modified_tab_marker_pink": true,
+"theme_gotham_modified_tab_marker_desaturated": true,
 ```
 
-##### AUTOCOMPLETE - KEYWORD COLOR (default: white)
+##### AUTOCOMPLETE - KEYWORD COLOR (default: desaturated)
 #
 ```json
 "theme_gotham_auto_complete_white": true,
 "theme_gotham_auto_complete_gray": true,
-"theme_gotham_auto_complete_lightblue": true,
+"theme_gotham_auto_complete_cyan": true,
 "theme_gotham_auto_complete_yellow": true,
-"theme_gotham_auto_complete_pink": true,
+"theme_gotham_auto_complete_desaturated": true,
 ```
 
 ##### SCROLLBAR COLORS (default: theme based color)
@@ -169,14 +169,14 @@ overrides default theme sidebar and tab background only based on theme scheme ba
 "theme_gotham_vertical_scrollbar_gray": true,
 "theme_gotham_horizontal_scrollbar_gray": true,
 
-"theme_gotham_vertical_scrollbar_lightblue": true,
-"theme_gotham_horizontal_scrollbar_lightblue": true,
+"theme_gotham_vertical_scrollbar_cyan": true,
+"theme_gotham_horizontal_scrollbar_cyan": true,
 
 "theme_gotham_vertical_scrollbar_yellow": true,
 "theme_gotham_horizontal_scrollbar_yellow": true,
 
-"theme_gotham_vertical_scrollbar_pink": true,
-"theme_gotham_horizontal_scrollbar_pink": true,
+"theme_gotham_vertical_scrollbar_desaturated": true,
+"theme_gotham_horizontal_scrollbar_desaturated": true,
 ```
 
 ##### SCROLLBAR THINNESS (default: 4)
