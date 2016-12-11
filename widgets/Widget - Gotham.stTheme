@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
     <key>author</key>
-    <string>arvi</string>
+    <string>9sevendesign</string>
     <key>comment</key>
     <string>A widget theme for the UI components of the Gotham theme.</string>
     <key>name</key>
-    <string>Agila - Widget Theme</string>
+    <string>Gotham - Widget Theme</string>
     <key>settings</key>
     <array>
         <dict>
@@ -16,19 +16,19 @@
                 <key>background</key>
                 <string>#10151B</string>
                 <key>caret</key>
-                <string>#CECECE</string>
+                <string>#98D1CE</string>
                 <key>foreground</key>
-                <string>#CECECE</string>
+                <string>#98D1CE</string>
                 <key>invisibles</key>
-                <string>#4E5165</string>
+                <string>#245361</string>
                 <key>lineHighlight</key>
                 <string>#245361</string>
                 <key>selection</key>
-                <string>#396470</string>
-                <key>selectionBorder</key>
-                <string>#396470</string>
-                <key>inactiveSelection</key>
                 <string>#245361</string>
+                <key>selectionBorder</key>
+                <string>#2f6b7e</string>
+                <key>inactiveSelection</key>
+                <string>#2f6b7e</string>
             </dict>
         </dict>
         <dict>
