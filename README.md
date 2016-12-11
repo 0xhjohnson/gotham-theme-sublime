@@ -32,7 +32,7 @@ via [Package Control](https://packagecontrol.io/), where Gotham is listed as *`G
 via installing the theme manually.
 
 1. [Download the latest release .zip](https://github.com/9sevendesign/Gotham-Theme/releases)
-2. Unzip
+2. Unzip and rename folder to Gotham-Theme
 3. Move *`Gotham-Theme`* folder inside the Packages directory (*`Preferences > Browse packages...`*)
 
 ---
