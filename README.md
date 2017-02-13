@@ -59,7 +59,7 @@ Note: You can use active guide with these schemes by adding:
 ---
 
 ### Icons
-The theme uses [zz File Icons](https://github.com/oivva/st-file-icons) package to display file icons. Please install the package and restart Sublime.
+The theme uses [A File Icon](https://github.com/ihodev/a-file-icon) package to display file icons. Please install the package and restart Sublime.
 
 ### Settings
 I've made some UI parts customizable | icon colors, sidebar items, etc..
