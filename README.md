@@ -13,7 +13,7 @@ You can customize the UI to your liking _(e.g camouflage workspace with the colo
 
 Screenshots below use font face: [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 
-####Gotham Theme
+#### Gotham Theme
 ![Screenshot](http://i.imgur.com/xAqgz61.png)
 ![Screenshot](http://i.imgur.com/VLXf1q0.png)
 
