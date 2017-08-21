@@ -33,7 +33,7 @@ via installing the theme manually.
 
 1. [Download the latest release .zip](https://github.com/9sevendesign/Gotham-Theme/releases)
 2. Unzip and rename folder to Gotham-Theme
-3. Move *`Gotham-Theme`* folder inside the Packages directory (*`Preferences > Browse packages...`*)
+3. Move *`Gotham Theme`* folder inside the Packages directory (*`Preferences > Browse packages...`*)
 
 ---
 
@@ -45,7 +45,7 @@ don't forget to **restart Sublime Text Editor** for changes to take effect.
 #
 ```json
 "theme": "Gotham.sublime-theme",
-"color_scheme": "Packages/Gotham-Theme/Gotham.tmTheme",
+"color_scheme": "Packages/Gotham Theme/Gotham.tmTheme",
 ```
 Note: You can use active guide with these schemes by adding:
 ```json
